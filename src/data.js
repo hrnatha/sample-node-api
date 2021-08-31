@@ -16,7 +16,7 @@ module.exports = {
             'first': 'Maldonado',
             'last': 'Sellers'
           },
-          'email': 'maldonado.sellers@undefined.biz',
+          'email': 'sellers@undefined.biz',
           'phone': '+1 (834) 573-2841',
           'address': '286 Hewes Street, Abiquiu, Maine, 2447'
         },
